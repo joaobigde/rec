@@ -221,3 +221,4 @@ Para endpoints ou caminhos nao existentes, a resposta e:
   "mensagem": "Endpoint não encontrado."
 }
 ```
+![alt text](image.png)
